@@ -45,3 +45,7 @@ const aboutMe = {
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://npmjs.com" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/npm-226037.png" alt="npm" width="40" height="40"/> </a>
 <a href="https://sequelize.org" target="_blank"> <img src="https://i.blogs.es/91493f/sequelize/1366_2000.png" alt="sequalize" width="80" height="40"/> </a>
+
+<div align="center">
+   <img src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif" alt="coding" width="1000" height="800"/>
+</div>

@@ -11,13 +11,13 @@ const aboutMe = {
          css: ["Bootstrap", "Sass", "Less"]
       },
       backEnd: {
-         js: ["Node", "Express", Sequalize]
+         js: ["Node", "Express", "Sequalize"]
       },
-      databases: ["PostgreSQL"],
+      databases: ["PostgreSQL", "Firebase"],
    },
 };
 ```
-- 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, Sequelize**
+- 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, Sequelize, Firebase, Sass**
 
 - 📫 How to reach me **estebanlunacl@gmail.com**
 
